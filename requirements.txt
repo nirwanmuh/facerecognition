@@ -1,0 +1,4 @@
+streamlit
+deepface
+Pillow
+opencv-python-headless
